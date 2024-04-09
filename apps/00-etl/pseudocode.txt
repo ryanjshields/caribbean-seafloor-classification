@@ -1,9 +1,0 @@
-# get latest global GEBCO dataset from URL in config file
-
-# Unzip GEBCO download
-
-# Clip to bbox found in config file
-
-# Reproject clipped area using custom TNC prj string found in config file
-
-# Retrieve layers from Felt and update
