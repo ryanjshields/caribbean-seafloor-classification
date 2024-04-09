@@ -1,0 +1,9 @@
+# use k-means clustering with BTM outputs to create classification of seafloor
+
+# generate terrain statistics for classes
+
+# load classification and seafloor features databases in Felt for exploration
+
+# assign names to classes based on reference data and statistical values
+
+# document each class assignment
